@@ -1,0 +1,6 @@
+{
+    "editor.parameterHints.enabled": false,
+    "editor.hover.enabled": false,
+    "editor.parameterHints.cycle": true,
+    "problems.showCurrentInStatus": true,
+}
